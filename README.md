@@ -146,6 +146,7 @@ Important project docs live in `skills/claude-skill-porter/references/`, includi
 - risk register
 - implementation roadmap
 - v1 checklist
+- root-level Russian GitHub publishing guide
 
 ## Positioning
 
