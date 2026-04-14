@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude Skill Porter"
+  short_description: "Port Claude Code skills to Codex with a risk report"
+  default_prompt: "Convert this Claude Code skill to a Codex-ready skill, preserve portable parts, and explain any manual follow-up clearly."

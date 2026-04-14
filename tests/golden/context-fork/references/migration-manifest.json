@@ -1,0 +1,19 @@
+{
+  "source_path": "/Users/liisengineering/Downloads/Claud migration/tests/fixtures/context-fork",
+  "source_type": "skill",
+  "generated_on": "2026-04-14",
+  "output_path": "/Users/liisengineering/Downloads/Claud migration/tests/golden/context-fork",
+  "status": "manual_follow_up_required",
+  "portable_items_copied": 1,
+  "rewrite_items_applied": 0,
+  "manual_follow_up_items": 1,
+  "portable_notes": [
+    "Copied `name` and `description` into the Codex skill."
+  ],
+  "rewrite_notes": [],
+  "manual_notes": [
+    "`context`: Claude can run a skill inside a forked context. Treat as manual redesign in Codex."
+  ],
+  "body_findings": [],
+  "bundled_directories": []
+}

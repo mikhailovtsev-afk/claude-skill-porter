@@ -1,0 +1,19 @@
+{
+  "source_path": "/Users/liisengineering/Downloads/Claud migration/tests/fixtures/claude-vars",
+  "source_type": "skill",
+  "generated_on": "2026-04-14",
+  "output_path": "/Users/liisengineering/Downloads/Claud migration/tests/golden/claude-vars",
+  "status": "ready_with_review",
+  "portable_items_copied": 1,
+  "rewrite_items_applied": 1,
+  "manual_follow_up_items": 0,
+  "portable_notes": [
+    "Copied `name` and `description` into the Codex skill."
+  ],
+  "rewrite_notes": [
+    "Rewrote common Claude runtime variables into plain path guidance."
+  ],
+  "manual_notes": [],
+  "body_findings": [],
+  "bundled_directories": []
+}

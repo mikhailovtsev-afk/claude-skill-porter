@@ -1,0 +1,19 @@
+{
+  "source_path": "/Users/liisengineering/Downloads/Claud migration/tests/fixtures/hooks-skill",
+  "source_type": "skill",
+  "generated_on": "2026-04-14",
+  "output_path": "/Users/liisengineering/Downloads/Claud migration/tests/golden/hooks-skill",
+  "status": "manual_follow_up_required",
+  "portable_items_copied": 1,
+  "rewrite_items_applied": 0,
+  "manual_follow_up_items": 1,
+  "portable_notes": [
+    "Copied `name` and `description` into the Codex skill."
+  ],
+  "rewrite_notes": [],
+  "manual_notes": [
+    "`hooks`: Claude skill lifecycle hooks do not have a confirmed Codex skill equivalent here."
+  ],
+  "body_findings": [],
+  "bundled_directories": []
+}

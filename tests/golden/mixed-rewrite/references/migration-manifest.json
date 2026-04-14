@@ -1,0 +1,22 @@
+{
+  "source_path": "/Users/liisengineering/Downloads/Claud migration/tests/fixtures/mixed-rewrite",
+  "source_type": "skill",
+  "generated_on": "2026-04-14",
+  "output_path": "/Users/liisengineering/Downloads/Claud migration/tests/golden/mixed-rewrite",
+  "status": "ready_with_review",
+  "portable_items_copied": 2,
+  "rewrite_items_applied": 3,
+  "manual_follow_up_items": 0,
+  "portable_notes": [
+    "Copied `name` and `description` into the Codex skill.",
+    "Copied a simple `allowed-tools` list."
+  ],
+  "rewrite_notes": [
+    "Converted inline Claude shell injections into explicit run instructions.",
+    "Rewrote indexed Claude argument placeholders into plain request-language guidance.",
+    "Rewrote common Claude runtime variables into plain path guidance."
+  ],
+  "manual_notes": [],
+  "body_findings": [],
+  "bundled_directories": []
+}

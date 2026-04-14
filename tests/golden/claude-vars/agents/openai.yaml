@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude Vars"
+  short_description: "Claude skill with runtime variables"
+  default_prompt: "Use the claude-vars skill for this task, preserve any portable parts, and clearly call out manual follow-up."

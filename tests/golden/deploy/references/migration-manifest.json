@@ -1,0 +1,19 @@
+{
+  "source_path": "/Users/liisengineering/Downloads/Claud migration/tests/fixtures/legacy-command/deploy.md",
+  "source_type": "command",
+  "generated_on": "2026-04-14",
+  "output_path": "/Users/liisengineering/Downloads/Claud migration/tests/golden/deploy",
+  "status": "ready_with_review",
+  "portable_items_copied": 1,
+  "rewrite_items_applied": 1,
+  "manual_follow_up_items": 0,
+  "portable_notes": [
+    "Copied `name` and `description` into the Codex skill."
+  ],
+  "rewrite_notes": [
+    "Converted inline Claude shell injections into explicit run instructions."
+  ],
+  "manual_notes": [],
+  "body_findings": [],
+  "bundled_directories": []
+}
