@@ -140,13 +140,15 @@ The repo includes a dedicated [RELEASE_CHECKLIST.md](RELEASE_CHECKLIST.md) for t
 
 Important project docs live in `skills/claude-skill-porter/references/`, including:
 
-- Russian guide
+- [Russian guide](GUIDE_RU.md)
+- [Russian GitHub publishing guide](GITHUB_PUBLISHING_RU.md)
 - community critique notes
 - mapping matrix
 - risk register
 - implementation roadmap
 - v1 checklist
-- root-level Russian GitHub publishing guide
+
+If you want the project overview in Russian, start with `GUIDE_RU.md`.
 
 ## Positioning
 
