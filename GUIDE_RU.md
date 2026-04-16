@@ -110,7 +110,6 @@
 - fixture-based тесты
 - golden outputs
 - CI
-- release checklist
 - документация по рискам
 - гайд по GitHub-публикации
 

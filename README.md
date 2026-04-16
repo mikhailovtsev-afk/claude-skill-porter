@@ -134,8 +134,6 @@ Before publishing, you should check:
 - privacy review for copied references and scripts
 - docs accuracy
 
-The repo includes a dedicated [RELEASE_CHECKLIST.md](RELEASE_CHECKLIST.md) for this.
-
 ## Additional docs
 
 Important project docs live in `skills/claude-skill-porter/references/`, including:
