@@ -139,7 +139,6 @@ Before publishing, you should check:
 Important project docs live in `skills/claude-skill-porter/references/`, including:
 
 - [Russian guide](GUIDE_RU.md)
-- [Russian GitHub publishing guide](GITHUB_PUBLISHING_RU.md)
 - community critique notes
 - mapping matrix
 - risk register
